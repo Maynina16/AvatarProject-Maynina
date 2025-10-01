@@ -1,1 +1,1 @@
-# AvatarProject-Maynina
+# Avatarproject
